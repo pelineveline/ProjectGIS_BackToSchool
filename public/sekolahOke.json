@@ -1,0 +1,4085 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.45431111111111,
+          0.52602222222222228
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "No" : 1,
+        "Nama_Sekol" : "SMA Negeri 1 Pekanbaru",
+        "Alamat" : "Jl.Sultan Syarif Qasim No.159,Rintis,Lima puluh,kota Pekanbaru,Riau",
+        "Garis_Buju" : 101.454311,
+        "Garis_Lint" : 0.52602199999999999,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43111111111112,
+          0.52083333333333337
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "No" : 2,
+        "Nama_Sekol" : "SMAN 2 PEKANBARU",
+        "Alamat" : "Jl. Nusa Indah No.4, Labuh Baru Tim., Kec. Payung Sekaki, Kota Pekanbaru, Riau 28156",
+        "Garis_Buju" : 101.431111,
+        "Garis_Lint" : 0.52083299999999999,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.42860555555556,
+          0.57104166666666667
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "No" : 3,
+        "Nama_Sekol" : "SMAN 3 PEKANBARU",
+        "Alamat" : "Jl. Yos Sudarso No.100A Umban Sari Kec. Rumbai Kota Pekanbaru, Riau 28266",
+        "Garis_Buju" : 101.428606,
+        "Garis_Lint" : 0.57104200000000005,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43385833333333,
+          0.46253888888888889
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "No" : 4,
+        "Nama_Sekol" : "SMA Negeri 4 Pekanbaru",
+        "Alamat" : "Jl. Adi Sucipto No.67, Perhentian Marpoyan, Kec. Marpoyan Damai",
+        "Garis_Buju" : 101.433858,
+        "Garis_Lint" : 0.46253899999999998,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44279722222223,
+          0.50269166666666665
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "No" : 5,
+        "Nama_Sekol" : "SMA Negeri 5 Pekanbaru",
+        "Alamat" : "Jl. Bawal No.43, Wonorejo, Kec. Marpoyan Damai",
+        "Garis_Buju" : 101.442797,
+        "Garis_Lint" : 0.50269200000000003,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.475325,
+          0.53489166666666665
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "No" : 6,
+        "Nama_Sekol" : "SMA NEGERI 6 PEKANBARU",
+        "Alamat" : "JL.Bambu Kuning NO. 28 Rejosari Kec. Tenayan Raya Kota Pekanbaru Riau",
+        "Garis_Buju" : 101.475325,
+        "Garis_Lint" : 0.53489200000000003,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43087777777778,
+          0.54247777777777773
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "No" : 7,
+        "Nama_Sekol" : "SMA Negeri 7 Pekanbaru",
+        "Alamat" : "JL. Kapur Gg. Kapur III NO. 7, Kec. Senapelan, Kel. Kampung Baru",
+        "Garis_Buju" : 101.43087800000001,
+        "Garis_Lint" : 0.54247800000000002,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.45833333333334,
+          0.50944444444444448
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "No" : 8,
+        "Nama_Sekol" : "SMAN 8 PEKANBARU",
+        "Alamat" : "Jl. Abdul Muis No.14, Cinta Raja, Kec. Sail, Kota Pekanbaru, Riau 28127",
+        "Garis_Buju" : 101.458333,
+        "Garis_Lint" : 0.50944400000000001,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.45810833333334,
+          0.52602222222222228
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "No" : 9,
+        "Nama_Sekol" : "SMA Negeri 9 Pekanbaru",
+        "Alamat" : "Jl. Semeru No.12 Rintis Kec. Lima Puluh\nKota Pekanbaru, Riau",
+        "Garis_Buju" : 101.458108,
+        "Garis_Lint" : 0.52602199999999999,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.48671666666667,
+          0.49222777777777776
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "No" : 10,
+        "Nama_Sekol" : "SMA NEGERI 10 PEKANBARU",
+        "Alamat" : "JL.BUKIT BARISAN Tengkerang Timur Kec. Tenayan Raya Kota Pekanbaru Riau",
+        "Garis_Buju" : 101.486717,
+        "Garis_Lint" : 0.492228,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.48443611111111,
+          0.51180277777777783
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "No" : 11,
+        "Nama_Sekol" : "SMA NEGERI 11 PEKANBARU",
+        "Alamat" : "Jl. Segar No. 40 Rejosari Kec. Tenayan Raya Kota Pekanbaru Riau",
+        "Garis_Buju" : 101.484436,
+        "Garis_Lint" : 0.51180300000000001,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.36666666666666,
+          0.47694444444444445
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "No" : 12,
+        "Nama_Sekol" : "SMA NEGERI 12 PEKANBARU",
+        "Alamat" : "JL.GARUDA SAKTI KM.3, Simpang Baru, Kec. Tampan",
+        "Garis_Buju" : 101.36666700000001,
+        "Garis_Lint" : 0.47694399999999998,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.41793055555556,
+          0.6686777777777777
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "No" : 13,
+        "Nama_Sekol" : "SMA NEGERI 13 PEKANBARU",
+        "Alamat" : "JL. YOS SUDARSO KM. 27 Muara Fajar, Muara Fajar, Kec. Rumbai, Kota Pekanbaru",
+        "Garis_Buju" : 101.417931,
+        "Garis_Lint" : 0.66867799999999999,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.46848055555556,
+          0.44994444444444448
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "No" : 14,
+        "Nama_Sekol" : "SMA Negeri 14 Pekanbaru",
+        "Alamat" : "Jl. Tengku Bey Jl. Sei Mintan No.1 Simpang Tiga Kec. Bukit Raya",
+        "Garis_Buju" : 101.468481,
+        "Garis_Lint" : 0.44994400000000001,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.39222222222223,
+          0.4425
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "No" : 15,
+        "Nama_Sekol" : "SMA NEGERI 15 PEKANBARU",
+        "Alamat" : "Jl. Cipta Karya, Tuah Karya, Kec. Tampan",
+        "Garis_Buju" : 101.392222,
+        "Garis_Lint" : 0.4425,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.47472222222223,
+          0.57444444444444442
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "No" : 16,
+        "Nama_Sekol" : "SMAN 16 PEKANBARU",
+        "Alamat" : "Lembah Sari, Rumbai Pesisir, Pekanbaru City, Riau 28261",
+        "Garis_Buju" : 101.474722,
+        "Garis_Lint" : 0.57444399999999995,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.38333333333334,
+          0.51277777777777778
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "No" : 17,
+        "Nama_Sekol" : "SMAN 17 PEKANBARU",
+        "Alamat" : "Jalan Fajar Raya RT 006 RW 003",
+        "Garis_Buju" : 101.38333299999999,
+        "Garis_Lint" : 0.51277799999999996,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.47277777777778,
+          0.48226666666666668
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "No" : 18,
+        "Nama_Sekol" : "SMAN 18 PEKANBARU",
+        "Alamat" : "Tengkerang Sel. Kec. Bukit Raya",
+        "Garis_Buju" : 101.47277800000001,
+        "Garis_Lint" : 0.482267,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.4063888888889,
+          0.46722222222222221
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "No" : 19,
+        "Nama_Sekol" : "SMAN 19 PEKANBARU",
+        "Alamat" : "JL. GARUDA RT.004 RW.002",
+        "Garis_Buju" : 101.406389,
+        "Garis_Lint" : 0.46722200000000003,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.45361111111112,
+          0.52638888888888891
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "No" : 20,
+        "Nama_Sekol" : "SMPN 1 PEKANBARU",
+        "Alamat" : "Jl. St. Syarif, Rintis, Kec. Lima Puluh, Kota Pekanbaru, Riau 28156",
+        "Garis_Buju" : 101.453611,
+        "Garis_Lint" : 0.526389,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44194444444445,
+          0.53194444444444444
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "No" : 21,
+        "Nama_Sekol" : "SMPN 2 PEKANBARU",
+        "Alamat" : "Jl. M. Yamin No.24a, Padang Bulan, Kec. Senapelan, Kota Pekanbaru, Riau 28155",
+        "Garis_Buju" : 101.44194400000001,
+        "Garis_Lint" : 0.53194399999999997,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43194444444445,
+          0.52416666666666667
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "No" : 22,
+        "Nama_Sekol" : "SMPN 3 PEKANBARU",
+        "Alamat" : " Jl. Dahlia No.102, Kedungsari, Kec. Sukajadi, Kota Pekanbaru, Riau 28123",
+        "Garis_Buju" : 101.431944,
+        "Garis_Lint" : 0.52416700000000005,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.4563888888889,
+          0.5261111111111112
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "No" : 23,
+        "Nama_Sekol" : "SMPN 4 PEKANBARU",
+        "Alamat" : "Jl. Dr. Sutomo No.110, Rintis, Lima Puluh, Pekanbaru City, Riau 28156",
+        "Garis_Buju" : 101.456389,
+        "Garis_Lint" : 0.526111,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.45361111111112,
+          0.52666666666666673
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "No" : 24,
+        "Nama_Sekol" : "SMPN 5 PEKANBARU",
+        "Alamat" : "Jl. Sultan Syarif Qasim, Rintis, Kec. Lima Puluh, Kota Pekanbaru, Riau 28156",
+        "Garis_Buju" : 101.453611,
+        "Garis_Lint" : 0.526667,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43694444444445,
+          0.57222222222222219
+        ]
+      },
+      "properties" : {
+        "FID" : 24,
+        "No" : 25,
+        "Nama_Sekol" : "SMPN 6 PEKANBARU",
+        "Alamat" : "Jl. Camp Rumbai, Lembah Damai, Kec. Rumbai Pesisir, Kota Pekanbaru, Riau 28266",
+        "Garis_Buju" : 101.436944,
+        "Garis_Lint" : 0.57222200000000001,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.46527777777779,
+          0.53583333333333327
+        ]
+      },
+      "properties" : {
+        "FID" : 25,
+        "No" : 26,
+        "Nama_Sekol" : "SMPN 7 PEKANBARU",
+        "Alamat" : "Jl. Lokomotif No.28, Tj. Rhu, Kec. Lima Puluh, Kota Pekanbaru, Riau 28151",
+        "Garis_Buju" : 101.465278,
+        "Garis_Lint" : 0.535833,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43444444444445,
+          0.46250000000000002
+        ]
+      },
+      "properties" : {
+        "FID" : 26,
+        "No" : 27,
+        "Nama_Sekol" : "SMPN 8 PEKANBARU",
+        "Alamat" : "Jl. Adi Sucipto No.67, Perhentian Marpoyan, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28289",
+        "Garis_Buju" : 101.434444,
+        "Garis_Lint" : 0.46250000000000002,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.48694444444445,
+          0.49444444444444446
+        ]
+      },
+      "properties" : {
+        "FID" : 27,
+        "No" : 28,
+        "Nama_Sekol" : "SMPN 9 PEKANBARU",
+        "Alamat" : "Junior High School 9 Pekanbaru, Jl. Imam Munandar No.398, Tengkerang Timur, Tenayan Raya, Pekanbaru City, Riau 28131",
+        "Garis_Buju" : 101.48694399999999,
+        "Garis_Lint" : 0.49444399999999999,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.45583333333333,
+          0.52694444444444455
+        ]
+      },
+      "properties" : {
+        "FID" : 28,
+        "No" : 29,
+        "Nama_Sekol" : "SMPN 10 PEKANBARU",
+        "Alamat" : "Jl. Dr. Sutomo No.108, Rintis, Lima Puluh, Pekanbaru City, Riau 28156",
+        "Garis_Buju" : 101.455833,
+        "Garis_Lint" : 0.52694399999999997,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.47527777777778,
+          0.53527777777777774
+        ]
+      },
+      "properties" : {
+        "FID" : 29,
+        "No" : 30,
+        "Nama_Sekol" : "SMPN 11 PEKANBARU",
+        "Alamat" : "Rejosari, Tenayan Raya, Pekanbaru City, Riau",
+        "Garis_Buju" : 101.475278,
+        "Garis_Lint" : 0.53527800000000003,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.42777777777778,
+          0.53027777777777785
+        ]
+      },
+      "properties" : {
+        "FID" : 30,
+        "No" : 31,
+        "Nama_Sekol" : "SMPN 12 PEKANBARU",
+        "Alamat" : " Jl. Guru Sulaiman No.37, Padang Bulan, Senapelan, Pekanbaru City, Riau 28291",
+        "Garis_Buju" : 101.427778,
+        "Garis_Lint" : 0.53027800000000003,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.45611111111111,
+          0.51472222222222219
+        ]
+      },
+      "properties" : {
+        "FID" : 31,
+        "No" : 32,
+        "Nama_Sekol" : "SMPN 13 PEKANBARU",
+        "Alamat" : "GF74+W87 SMP 13 Pekanbaru, Jl. Ronggo Warsito Suka Maju Sail Suka Maju Sail Kota Pekanbaru Riau 28, Suka Maju, Kec. Sail, Kota Pekanbaru, Riau 28127",
+        "Garis_Buju" : 101.45611100000001,
+        "Garis_Lint" : 0.51472200000000001,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.45472222222223,
+          0.52500000000000002
+        ]
+      },
+      "properties" : {
+        "FID" : 32,
+        "No" : 33,
+        "Nama_Sekol" : "SMPN 14 PEKANBARU",
+        "Alamat" : "Junior High School 14 Pekanbaru, Jl. Hangtuah No.43, Suka Mulia, Sail, Pekanbaru City, Riau 28156",
+        "Garis_Buju" : 101.454722,
+        "Garis_Lint" : 0.52500000000000002,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.45916666666668,
+          0.57277777777777772
+        ]
+      },
+      "properties" : {
+        "FID" : 33,
+        "No" : 34,
+        "Nama_Sekol" : "SMPN 15 PEKANBARU",
+        "Alamat" : "HFF5+4PQ SMP Negeri 15 Pekanbaru, Jl. Lembah Sari, Lembah Sari, Kec. Rumbai Pesisir, Kota Pekanbaru, Riau 28266",
+        "Garis_Buju" : 101.45916699999999,
+        "Garis_Lint" : 0.57277800000000001,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44138888888889,
+          0.52777777777777779
+        ]
+      },
+      "properties" : {
+        "FID" : 34,
+        "No" : 35,
+        "Nama_Sekol" : "SMPN 16 PEKANBARU",
+        "Alamat" : "Junior High School 16 Pekanbaru, Jl. Cempaka No.28127, Pulau Karam, Sukajadi, Pekanbaru City, Riau 28156",
+        "Garis_Buju" : 101.441389,
+        "Garis_Lint" : 0.52777799999999997,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.4325,
+          0.5083333333333333
+        ]
+      },
+      "properties" : {
+        "FID" : 35,
+        "No" : 36,
+        "Nama_Sekol" : "SMPN 17 PEKANBARU",
+        "Alamat" : "Jl. Kenari, Kampung Melayu, Sukajadi, Pekanbaru City, Riau 28122",
+        "Garis_Buju" : 101.4325,
+        "Garis_Lint" : 0.50833300000000003,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.42777777777778,
+          0.52833333333333343
+        ]
+      },
+      "properties" : {
+        "FID" : 36,
+        "No" : 37,
+        "Nama_Sekol" : "SMPN 18 PEKANBARU",
+        "Alamat" : "SMP Negeri 18 Pekanbaru, Jl. Lili I No.95, Kedungsari, Sukajadi, Pekanbaru City, Riau 28156",
+        "Garis_Buju" : 101.427778,
+        "Garis_Lint" : 0.52833300000000005,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43055555555556,
+          0.64722222222222214
+        ]
+      },
+      "properties" : {
+        "FID" : 37,
+        "No" : 38,
+        "Nama_Sekol" : "SMPN 19 PEKANBARU",
+        "Alamat" : "Junior High School 19 Pekanbaru, Jl. Yos Sudarso, Muara Fajar, Rumbai, Pekanbaru City, Riau 28267",
+        "Garis_Buju" : 101.430556,
+        "Garis_Lint" : 0.64722199999999996,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.41500000000001,
+          0.47027777777777779
+        ]
+      },
+      "properties" : {
+        "FID" : 38,
+        "No" : 39,
+        "Nama_Sekol" : "SMPN 20 PEKANBARU",
+        "Alamat" : "Jl. Abadi Kelurahan No.9, Delima, Tampan, Pekanbaru City, Riau 28290",
+        "Garis_Buju" : 101.41500000000001,
+        "Garis_Lint" : 0.47027799999999997,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.41833333333334,
+          0.46027777777777779
+        ]
+      },
+      "properties" : {
+        "FID" : 39,
+        "No" : 40,
+        "Nama_Sekol" : "SMPN 21 PEKANBARU",
+        "Alamat" : "Jl. Soekarno - Hatta No.639, Sidomulyo Timur, Marpoyan Damai, Pekanbaru City, Riau 28289",
+        "Garis_Buju" : 101.418333,
+        "Garis_Lint" : 0.46027800000000002,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.47750000000001,
+          0.50166666666666671
+        ]
+      },
+      "properties" : {
+        "FID" : 40,
+        "No" : 41,
+        "Nama_Sekol" : "SMPN 22 PEKANBARU",
+        "Alamat" : "Jl. Sidodadi No.32, Tengkerang Utara, Bukit Raya, Pekanbaru City, Riau 28289",
+        "Garis_Buju" : 101.47750000000001,
+        "Garis_Lint" : 0.50166699999999997,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.35722222222222,
+          0.48833333333333334
+        ]
+      },
+      "properties" : {
+        "FID" : 41,
+        "No" : 42,
+        "Nama_Sekol" : "SMPN 23 PEKANBARU",
+        "Alamat" : "Jl. Garuda Sakti No.KM.3, Simpang Baru, Kec. Tampan, Kota Pekanbaru, Riau 28293",
+        "Garis_Buju" : 101.35722199999999,
+        "Garis_Lint" : 0.48833300000000002,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.39083333333333,
+          0.60749999999999993
+        ]
+      },
+      "properties" : {
+        "FID" : 42,
+        "No" : 43,
+        "Nama_Sekol" : "SMPN 24 PEKANBARU",
+        "Alamat" : "Jl. Sri Amanah, Rumbai Bukit, Rumbai, Pekanbaru City, Riau 28264",
+        "Garis_Buju" : 101.390833,
+        "Garis_Lint" : 0.60750000000000004,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.4375,
+          0.4425
+        ]
+      },
+      "properties" : {
+        "FID" : 43,
+        "No" : 44,
+        "Nama_Sekol" : "SMPN 25 PEKANBARU",
+        "Alamat" : "Jl. Kartama, Perhentian Marpoyan, Marpoyan Damai, Pekanbaru City, Riau 96010",
+        "Garis_Buju" : 101.4375,
+        "Garis_Lint" : 0.4425,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.51527777777778,
+          0.48305555555555557
+        ]
+      },
+      "properties" : {
+        "FID" : 44,
+        "No" : 45,
+        "Nama_Sekol" : "SMPN 26 PEKANBARU",
+        "Alamat" : "Jl. Kenanga, Bencah Lesung, Tenayan Raya, Pekanbaru City, Riau 28289",
+        "Garis_Buju" : 101.515278,
+        "Garis_Lint" : 0.48305599999999999,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.42555555555556,
+          0.54666666666666663
+        ]
+      },
+      "properties" : {
+        "FID" : 45,
+        "No" : 46,
+        "Nama_Sekol" : "SMPN 27 PEKANBARU",
+        "Alamat" : "Jl. Nelayan No.221, Sri Meranti, Kec. Rumbai, Kota Pekanbaru, Riau 28291",
+        "Garis_Buju" : 101.425556,
+        "Garis_Lint" : 0.54666700000000001,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.53444444444445,
+          0.59222222222222221
+        ]
+      },
+      "properties" : {
+        "FID" : 46,
+        "No" : 47,
+        "Nama_Sekol" : "SMPN 28 PEKANBARU",
+        "Alamat" : "Tebing Tinggi Okura, Kec. Rumbai Pesisir, Kota Pekanbaru, Riau 28285",
+        "Garis_Buju" : 101.53444399999999,
+        "Garis_Lint" : 0.59222200000000003,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.42583333333334,
+          0.56527777777777777
+        ]
+      },
+      "properties" : {
+        "FID" : 47,
+        "No" : 48,
+        "Nama_Sekol" : "SMPN 29 PEKANBARU",
+        "Alamat" : "Jl. Tegalsari No.52, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28266",
+        "Garis_Buju" : 101.425833,
+        "Garis_Lint" : 0.56527799999999995,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44305555555556,
+          0.56222222222222229
+        ]
+      },
+      "properties" : {
+        "FID" : 48,
+        "No" : 49,
+        "Nama_Sekol" : "SMPN 30 PEKANBARU",
+        "Alamat" : "Jl. Kelly Raya, Limbungan Baru, Rumbai Pesisir, Pekanbaru City, Riau 28266",
+        "Garis_Buju" : 101.443056,
+        "Garis_Lint" : 0.562222,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.52500000000001,
+          0.51000000000000001
+        ]
+      },
+      "properties" : {
+        "FID" : 49,
+        "No" : 50,
+        "Nama_Sekol" : "SMPN 31 PEKANBARU",
+        "Alamat" : "Bencah Lesung, Kec. Tenayan Raya, Kota Pekanbaru, Riau 28285",
+        "Garis_Buju" : 101.52500000000001,
+        "Garis_Lint" : 0.51000000000000001,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43555555555555,
+          0.50916666666666666
+        ]
+      },
+      "properties" : {
+        "FID" : 50,
+        "No" : 51,
+        "Nama_Sekol" : "SMPN 32 PEKANBARU",
+        "Alamat" : "Jl. Balam Ujung No.18, Kp. Melayu, Kec. Sukajadi, Kota Pekanbaru, Riau 28122",
+        "Garis_Buju" : 101.43555600000001,
+        "Garis_Lint" : 0.50916700000000004,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.3913888888889,
+          0.51944444444444449
+        ]
+      },
+      "properties" : {
+        "FID" : 51,
+        "No" : 52,
+        "Nama_Sekol" : "SMPN 33 PEKANBARU",
+        "Alamat" : "Jalan Riau Ujung, Payung Sekaki, Labuh Baru Bar., Kec. Payung Sekaki, Kota Pekanbaru, Riau 28292",
+        "Garis_Buju" : 101.391389,
+        "Garis_Lint" : 0.51944400000000002,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.435,
+          0.44361111111111112
+        ]
+      },
+      "properties" : {
+        "FID" : 52,
+        "No" : 53,
+        "Nama_Sekol" : "SMPN 34 PEKANBARU",
+        "Alamat" : "Jl. Kartama, Perhentian Marpoyan, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28289",
+        "Garis_Buju" : 101.435,
+        "Garis_Lint" : 0.44361099999999998,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.46388888888889,
+          0.45527777777777778
+        ]
+      },
+      "properties" : {
+        "FID" : 53,
+        "No" : 54,
+        "Nama_Sekol" : "SMPN 35 PEKANBARU",
+        "Alamat" : "Jalan T. Bey / Reformasi II, Simpang Tiga, Bukit Raya, Pekanbaru City, Riau 28282",
+        "Garis_Buju" : 101.46388899999999,
+        "Garis_Lint" : 0.45527800000000002,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.41833333333334,
+          0.54527777777777775
+        ]
+      },
+      "properties" : {
+        "FID" : 54,
+        "No" : 55,
+        "Nama_Sekol" : "SMPN 36 PEKANBARU",
+        "Alamat" : "Tampan, Payung Sekaki, Pekanbaru City, Riau 28291",
+        "Garis_Buju" : 101.418333,
+        "Garis_Lint" : 0.54527800000000004,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44388888888889,
+          0.48638888888888887
+        ]
+      },
+      "properties" : {
+        "FID" : 55,
+        "No" : 56,
+        "Nama_Sekol" : "SMPN 37 PEKANBARU",
+        "Alamat" : "Jl. Garuda, Tengkerang Tengah, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28125",
+        "Garis_Buju" : 101.443889,
+        "Garis_Lint" : 0.48638900000000002,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.48,
+          0.55138888888888893
+        ]
+      },
+      "properties" : {
+        "FID" : 56,
+        "No" : 57,
+        "Nama_Sekol" : "SMPN 38 PEKANBARU",
+        "Alamat" : "Rejosari, Tenayan Raya, Pekanbaru City, Riau 28144",
+        "Garis_Buju" : 101.48,
+        "Garis_Lint" : 0.55138900000000002,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.51444444444445,
+          0.44666666666666666
+        ]
+      },
+      "properties" : {
+        "FID" : 57,
+        "No" : 58,
+        "Nama_Sekol" : "SMPN 39 PEKANBARU",
+        "Alamat" : "Jl. Seroja, Kulim, Kec. Tenayan Raya, Kota Pekanbaru, Riau 28282",
+        "Garis_Buju" : 101.514444,
+        "Garis_Lint" : 0.44666699999999998,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.3625,
+          0.48999999999999999
+        ]
+      },
+      "properties" : {
+        "FID" : 58,
+        "No" : 59,
+        "Nama_Sekol" : "SMPN 40 PEKANBARU",
+        "Alamat" : "Jl. Garuda Sakti, Simpang Baru, Kec. Tampan, Kota Pekanbaru, Riau 28291",
+        "Garis_Buju" : 101.3625,
+        "Garis_Lint" : 0.48999999999999999,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.40166666666667,
+          0.43805555555555559
+        ]
+      },
+      "properties" : {
+        "FID" : 59,
+        "No" : 60,
+        "Nama_Sekol" : "SMPN 42 PEKANBARU",
+        "Alamat" : "Jl. Datuk Tunggul, Sidomulyo Barat, Tampan, Pekanbaru City, Riau 28294",
+        "Garis_Buju" : 101.401667,
+        "Garis_Lint" : 0.438056,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.41000000000001,
+          0.54249999999999998
+        ]
+      },
+      "properties" : {
+        "FID" : 60,
+        "No" : 61,
+        "Nama_Sekol" : "SMPN 43 PEKANBARU",
+        "Alamat" : "GCV6+223 SMPN 43 Pekanbaru, Gg. Filadelfia, Tampan, Payung Sekaki, Pekanbaru City, Riau 28291",
+        "Garis_Buju" : 101.41,
+        "Garis_Lint" : 0.54249999999999998,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.36999999999999,
+          0.57388888888888889
+        ]
+      },
+      "properties" : {
+        "FID" : 61,
+        "No" : 62,
+        "Nama_Sekol" : "SMPN 44 PEKANBARU",
+        "Alamat" : "H9FC+H2 SMPN 44 Pekanbaru, Palas, Kec. Rumbai, Kota Pekanbaru, Riau",
+        "Garis_Buju" : 101.37,
+        "Garis_Lint" : 0.57388899999999998,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.3586111111111,
+          0.49777777777777776
+        ]
+      },
+      "properties" : {
+        "FID" : 62,
+        "No" : 63,
+        "Nama_Sekol" : "SMPN 45 PEKANBARU",
+        "Alamat" : "F9X5+5FQ SMP Negeri 45 Pekanbaru, Simpang Baru, Kec. Tampan, Kota Pekanbaru, Riau 28291",
+        "Garis_Buju" : 101.358611,
+        "Garis_Lint" : 0.497778,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.37305555555555,
+          0.44
+        ]
+      },
+      "properties" : {
+        "FID" : 63,
+        "No" : 64,
+        "Nama_Sekol" : "SMPN 46 PEKANBARU",
+        "Alamat" : "SMPN 46 PEKANBARU, Jl. Taman Karya, Tuah Karya, Kec. Tampan, Kota Pekanbaru, Riau 28293",
+        "Garis_Buju" : 101.37305600000001,
+        "Garis_Lint" : 0.44,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.41138888888889,
+          0.43805555555555559
+        ]
+      },
+      "properties" : {
+        "FID" : 64,
+        "No" : 65,
+        "Nama_Sekol" : "SMPN 47 PEKANBARU",
+        "Alamat" : "SMP NEGERI 47 PEKANBARU, Jl. Muhajirin, Sidomulyo Bar., Kec. Tampan, Kota Pekanbaru, Riau 28294",
+        "Garis_Buju" : 101.411389,
+        "Garis_Lint" : 0.438056,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.47916666666667,
+          0.45805555555555555
+        ]
+      },
+      "properties" : {
+        "FID" : 65,
+        "No" : 66,
+        "Nama_Sekol" : "SMPN 48 PEKANBARU",
+        "Alamat" : "FF5H+7Q SMP Negeri 48 Pekanbaru, Simpang Tiga, Kec. Bukit Raya, Kota Pekanbaru, Riau",
+        "Garis_Buju" : 101.479167,
+        "Garis_Lint" : 0.45805600000000002,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.51416666666667,
+          0.67222222222222217
+        ]
+      },
+      "properties" : {
+        "FID" : 66,
+        "No" : 67,
+        "Nama_Sekol" : "SMPN 49 PEKANBARU",
+        "Alamat" : "MGC7+XQG SMPN 49 PEKANBARU, JL. GERINGGING OKURA, Tebing Tinggi Okura, Kec. Rumbai Timur, Kota Pekanbaru, Riau",
+        "Garis_Buju" : 101.514167,
+        "Garis_Lint" : 0.67222199999999999,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.41388888888889,
+          0.45111111111111113
+        ]
+      },
+      "properties" : {
+        "FID" : 67,
+        "No" : 68,
+        "Nama_Sekol" : "SMPN 50 PEKANBARU",
+        "Alamat" : "FC27+HV2 SMP Negeri 50 Pekanbaru, Sidomulyo Barat, Tampan, Pekanbaru City, Riau 28294",
+        "Garis_Buju" : 101.413889,
+        "Garis_Lint" : 0.45111099999999998,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44222222222223,
+          0.5311111111111112
+        ]
+      },
+      "properties" : {
+        "FID" : 68,
+        "No" : 69,
+        "Nama_Sekol" : "SDN 1 PEKANBARU",
+        "Alamat" : "Sekolah Dasar Negeri 1 Pekanbaru, Jl. Jend. Ahmad Yani No.4, Padang Bulan, Kec. Senapelan, Kota Pekanbaru, Riau 28155",
+        "Garis_Buju" : 101.442222,
+        "Garis_Lint" : 0.531111,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43833333333333,
+          0.53638888888888892
+        ]
+      },
+      "properties" : {
+        "FID" : 69,
+        "No" : 70,
+        "Nama_Sekol" : "SDN 2 PEKANBARU",
+        "Alamat" : "SD Negeri 2 Pekanbaru, Jl. Kesehatan No.37, Kp. Bandar, Kec. Senapelan, Kota Pekanbaru, Riau 28153",
+        "Garis_Buju" : 101.438333,
+        "Garis_Lint" : 0.536389,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.4388888888889,
+          0.53611111111111109
+        ]
+      },
+      "properties" : {
+        "FID" : 70,
+        "No" : 71,
+        "Nama_Sekol" : "SDN 3 PEKANBARU",
+        "Alamat" : "SD Negeri 3 Pekanbaru, Jl. Kesehatan No.35, Kp. Bandar, Kec. Senapelan, Kota Pekanbaru, Riau 28153",
+        "Garis_Buju" : 101.438889,
+        "Garis_Lint" : 0.536111,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43472222222222,
+          0.52861111111111114
+        ]
+      },
+      "properties" : {
+        "FID" : 71,
+        "No" : 72,
+        "Nama_Sekol" : "SDN 4 PEKANBARU",
+        "Alamat" : "SD Negeri 5 Pekanbaru, Jl. Cempaka No.132, Padang Bulan, Kec. Senapelan, Kota Pekanbaru, Riau 28156",
+        "Garis_Buju" : 101.43472199999999,
+        "Garis_Lint" : 0.52861100000000005,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44500000000001,
+          0.51416666666666666
+        ]
+      },
+      "properties" : {
+        "FID" : 72,
+        "No" : 73,
+        "Nama_Sekol" : "SDN 5 PEKANBARU",
+        "Alamat" : "SD Negeri 6 Pekanbaru, Jl. Pepaya No.53, Jadirejo, Kec. Sukajadi, Kota Pekanbaru, Riau 28121",
+        "Garis_Buju" : 101.44499999999999,
+        "Garis_Lint" : 0.51416700000000004,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.45083333333334,
+          0.53861111111111115
+        ]
+      },
+      "properties" : {
+        "FID" : 73,
+        "No" : 74,
+        "Nama_Sekol" : "SDN 6 PEKANBARU",
+        "Alamat" : "GFQ2+GCV SD Negeri 7 Pekanbaru, Pesisir, Lima Puluh, Pekanbaru City, Riau 28155",
+        "Garis_Buju" : 101.450833,
+        "Garis_Lint" : 0.53861099999999995,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44555555555556,
+          0.56972222222222224
+        ]
+      },
+      "properties" : {
+        "FID" : 74,
+        "No" : 75,
+        "Nama_Sekol" : "SDN 7 PEKANBARU",
+        "Alamat" : "SD Negeri 8 Pekanbaru, Pattimura No.1, (Jl., Jl. Paus, Lembah Damai, Kec. Rumbai Pesisir, Kota Pekanbaru, Riau 28266",
+        "Garis_Buju" : 101.445556,
+        "Garis_Lint" : 0.56972199999999995,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.46000000000001,
+          0.53666666666666663
+        ]
+      },
+      "properties" : {
+        "FID" : 75,
+        "No" : 76,
+        "Nama_Sekol" : "SDN 11 PEKANBARU",
+        "Alamat" : "SD Negeri 11 Pekanbaru, Jl. Sungai Rokan No.72, Tj. Rhu, Kec. Lima Puluh, Kota Pekanbaru, Riau 28151",
+        "Garis_Buju" : 101.45999999999999,
+        "Garis_Lint" : 0.53666700000000001,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.50361111111111,
+          0.49027777777777776
+        ]
+      },
+      "properties" : {
+        "FID" : 76,
+        "No" : 77,
+        "Nama_Sekol" : "SDN 12 PEKANBARU",
+        "Alamat" : "Jl. Singgalang No.39, Tengkerang Tim., Kec. Tenayan Raya, Kota Pekanbaru, Riau 28131",
+        "Garis_Buju" : 101.50361100000001,
+        "Garis_Lint" : 0.49027799999999999,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44111111111111,
+          0.52694444444444455
+        ]
+      },
+      "properties" : {
+        "FID" : 77,
+        "No" : 78,
+        "Nama_Sekol" : "SDN 13 PEKANBARU",
+        "Alamat" : "SD Negeri 13 Pekanbaru, Jl. Cempaka No.01, Pulau Karam, Kec. Sukajadi, Kota Pekanbaru, Riau 28156",
+        "Garis_Buju" : 101.44111100000001,
+        "Garis_Lint" : 0.52694399999999997,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44138888888889,
+          0.52638888888888891
+        ]
+      },
+      "properties" : {
+        "FID" : 78,
+        "No" : 79,
+        "Nama_Sekol" : "SDN 14 PEKANBARU",
+        "Alamat" : "SD Negeri 14 Pekanbaru, Jl. Cempaka, Sukajadi, Kec. Sukajadi, Kota Pekanbaru, Riau 28156",
+        "Garis_Buju" : 101.441389,
+        "Garis_Lint" : 0.526389,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44555555555556,
+          0.51444444444444448
+        ]
+      },
+      "properties" : {
+        "FID" : 79,
+        "No" : 80,
+        "Nama_Sekol" : "SDN 15 PEKANBARU",
+        "Alamat" : "Jalan Cut Nyak Dhien, Jadirejo",
+        "Garis_Buju" : 101.445556,
+        "Garis_Lint" : 0.51444400000000001,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.4725,
+          0.43916666666666671
+        ]
+      },
+      "properties" : {
+        "FID" : 80,
+        "No" : 81,
+        "Nama_Sekol" : "SDN 16 PEKANBARU",
+        "Alamat" : "Jalan Tebing Tinggi Okura, Rumbai",
+        "Garis_Buju" : 101.4725,
+        "Garis_Lint" : 0.43916699999999997,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 81,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.45,
+          0.44083333333333335
+        ]
+      },
+      "properties" : {
+        "FID" : 81,
+        "No" : 82,
+        "Nama_Sekol" : "SDN 17 PEKANBARU",
+        "Alamat" : "Jl. Pasir Putih No.10, Simpang Tiga, Kec. Bukit Raya",
+        "Garis_Buju" : 101.45,
+        "Garis_Lint" : 0.44083299999999997,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 82,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.42805555555556,
+          0.53861111111111115
+        ]
+      },
+      "properties" : {
+        "FID" : 82,
+        "No" : 83,
+        "Nama_Sekol" : "SDN 18 PEKANBARU",
+        "Alamat" : "Jl. Kulim No.73, Kp. Baru, Kec. Senapelan",
+        "Garis_Buju" : 101.428056,
+        "Garis_Lint" : 0.53861099999999995,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 83,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.4063888888889,
+          0.46750000000000003
+        ]
+      },
+      "properties" : {
+        "FID" : 83,
+        "No" : 84,
+        "Nama_Sekol" : "SDN 19 PEKANBARU",
+        "Alamat" : "Jl. Garuda, RT.02/RW.04, KELURAHAN TOBEK GODANG, Kec. Tampan",
+        "Garis_Buju" : 101.406389,
+        "Garis_Lint" : 0.46750000000000003,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 84,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.42861111111111,
+          0.53861111111111115
+        ]
+      },
+      "properties" : {
+        "FID" : 84,
+        "No" : 85,
+        "Nama_Sekol" : "SDN 20 PEKANBARU",
+        "Alamat" : "Jl. Kulim, Kp. Baru, Kec. Senapelan",
+        "Garis_Buju" : 101.428611,
+        "Garis_Lint" : 0.53861099999999995,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 85,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.45055555555555,
+          0.45944444444444443
+        ]
+      },
+      "properties" : {
+        "FID" : 85,
+        "No" : 86,
+        "Nama_Sekol" : "SDN 21 PEKANBARU",
+        "Alamat" : "Jl. Pahlawan Kerja No.13A, Perhentian Marpoyan, Kec. Marpoyan Damai",
+        "Garis_Buju" : 101.45055600000001,
+        "Garis_Lint" : 0.45944400000000002,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 86,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43472222222222,
+          0.51444444444444448
+        ]
+      },
+      "properties" : {
+        "FID" : 86,
+        "No" : 87,
+        "Nama_Sekol" : "SDN 22 PEKANBARU",
+        "Alamat" : "Jl. Sawai, Kp. Melayu, Kec. Sukajadi",
+        "Garis_Buju" : 101.43472199999999,
+        "Garis_Lint" : 0.51444400000000001,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 87,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.46027777777778,
+          0.53638888888888892
+        ]
+      },
+      "properties" : {
+        "FID" : 87,
+        "No" : 88,
+        "Nama_Sekol" : "SDN 23 PEKANBARU",
+        "Alamat" : "Jl Tanjung Rhu, Lima Puluh,",
+        "Garis_Buju" : 101.460278,
+        "Garis_Lint" : 0.536389,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 88,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43472222222222,
+          0.55972222222222223
+        ]
+      },
+      "properties" : {
+        "FID" : 88,
+        "No" : 89,
+        "Nama_Sekol" : "SDN 25 PEKANBARU",
+        "Alamat" : "Jl. Kayangan No.7b, Limbungan Baru, Kec. Rumbai Pesisir",
+        "Garis_Buju" : 101.43472199999999,
+        "Garis_Lint" : 0.55972200000000005,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 89,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.45777777777778,
+          0.50972222222222219
+        ]
+      },
+      "properties" : {
+        "FID" : 89,
+        "No" : 90,
+        "Nama_Sekol" : "SDN 26 PEKANBARU",
+        "Alamat" : "Jl Cinta Raja, Sail",
+        "Garis_Buju" : 101.457778,
+        "Garis_Lint" : 0.50972200000000001,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 90,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43527777777778,
+          0.52833333333333343
+        ]
+      },
+      "properties" : {
+        "FID" : 90,
+        "No" : 91,
+        "Nama_Sekol" : "SDN 27 PEKANBARU",
+        "Alamat" : "Jl. Cempaka No.130, Padang Bulan, Kec. Senapelan",
+        "Garis_Buju" : 101.435278,
+        "Garis_Lint" : 0.52833300000000005,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 91,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.47722222222222,
+          0.52250000000000008
+        ]
+      },
+      "properties" : {
+        "FID" : 91,
+        "No" : 92,
+        "Nama_Sekol" : "SDN 28 PEKANBARU",
+        "Alamat" : "Jl. Utama No.22, Rejosari, Kec. Tenayan Raya, Kota Pekanbaru",
+        "Garis_Buju" : 101.477222,
+        "Garis_Lint" : 0.52249999999999996,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 92,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.45611111111111,
+          0.49888888888888888
+        ]
+      },
+      "properties" : {
+        "FID" : 92,
+        "No" : 93,
+        "Nama_Sekol" : "SDN 29 PEKANBARU",
+        "Alamat" : "Jl. Imam Munandar No.36, Tengkerang Sel., Kec. Bukit Raya,",
+        "Garis_Buju" : 101.45611100000001,
+        "Garis_Lint" : 0.49888900000000003,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 93,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.4538888888889,
+          0.53305555555555562
+        ]
+      },
+      "properties" : {
+        "FID" : 93,
+        "No" : 94,
+        "Nama_Sekol" : "SDN 30 PEKANBARU",
+        "Alamat" : "Jl. Sultan Syarif Qasim, Rintis, Kec. Lima Puluh, Kota Pekanbaru, R",
+        "Garis_Buju" : 101.453889,
+        "Garis_Lint" : 0.53305599999999997,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 94,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43916666666667,
+          0.57388888888888889
+        ]
+      },
+      "properties" : {
+        "FID" : 94,
+        "No" : 95,
+        "Nama_Sekol" : "SDN 32 PEKANBARU",
+        "Alamat" : "Jl. Komplek PT. Pertamina Hulu Rokan Rumbai, Lembah Damai, Kec. Rumbai Pesisir",
+        "Garis_Buju" : 101.439167,
+        "Garis_Lint" : 0.57388899999999998,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 95,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44527777777778,
+          0.53472222222222221
+        ]
+      },
+      "properties" : {
+        "FID" : 95,
+        "No" : 96,
+        "Nama_Sekol" : "SDN 33 PEKANBARU",
+        "Alamat" : "Jl. KH Samanhudi, Sago, Kec. Senapelan",
+        "Garis_Buju" : 101.445278,
+        "Garis_Lint" : 0.53472200000000003,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 96,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.46194444444444,
+          0.53250000000000008
+        ]
+      },
+      "properties" : {
+        "FID" : 96,
+        "No" : 97,
+        "Nama_Sekol" : "SDN 34 PEKANBARU",
+        "Alamat" : "Jl. Kuantan V, Sekip, Kec. Lima Puluh",
+        "Garis_Buju" : 101.461944,
+        "Garis_Lint" : 0.53249999999999997,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 97,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.45805555555556,
+          0.52500000000000002
+        ]
+      },
+      "properties" : {
+        "FID" : 97,
+        "No" : 98,
+        "Nama_Sekol" : "SDN 36 PEKANBARU",
+        "Alamat" : "Jl. Hangtuah No.59, Rintis, Kec. Lima Puluh",
+        "Garis_Buju" : 101.458056,
+        "Garis_Lint" : 0.52500000000000002,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 98,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.36611111111111,
+          0.46861111111111114
+        ]
+      },
+      "properties" : {
+        "FID" : 98,
+        "No" : 99,
+        "Nama_Sekol" : "SDN 37 PEKANBARU",
+        "Alamat" : "Jl. Garuda Sakti No.25, RW.Kilometer 1, Simpang Baru, Kec. Tampan",
+        "Garis_Buju" : 101.366111,
+        "Garis_Lint" : 0.468611,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 99,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.45777777777778,
+          0.51000000000000001
+        ]
+      },
+      "properties" : {
+        "FID" : 99,
+        "No" : 100,
+        "Nama_Sekol" : "SDN 38 PEKANBARU",
+        "Alamat" : "Jl. Abdul Muis, Cinta Raja, Kec. Sail",
+        "Garis_Buju" : 101.457778,
+        "Garis_Lint" : 0.51000000000000001,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 100,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.46055555555556,
+          0.51277777777777778
+        ]
+      },
+      "properties" : {
+        "FID" : 100,
+        "No" : 101,
+        "Nama_Sekol" : "SDN 39 PEKANBARU",
+        "Alamat" : "Jl. Lembaga Permasyarakatan, Suka Maju, Kec. Sail",
+        "Garis_Buju" : 101.460556,
+        "Garis_Lint" : 0.51277799999999996,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 101,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43805555555556,
+          0.54249999999999998
+        ]
+      },
+      "properties" : {
+        "FID" : 101,
+        "No" : 102,
+        "Nama_Sekol" : "SDN 40 PEKANBARU",
+        "Alamat" : "Jl. Meranti Pandak, Rumbai Pesisir",
+        "Garis_Buju" : 101.438056,
+        "Garis_Lint" : 0.54249999999999998,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 102,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.42194444444445,
+          0.51694444444444454
+        ]
+      },
+      "properties" : {
+        "FID" : 102,
+        "No" : 103,
+        "Nama_Sekol" : "SDN 41 PEKANBARU",
+        "Alamat" : "Jl. Durian No.85, Labuh Baru Tim., Kec. Payung Sekaki, Kota Pekanbaru, Riau 28292",
+        "Garis_Buju" : 101.421944,
+        "Garis_Lint" : 0.51694399999999996,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 103,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.42527777777778,
+          0.46361111111111114
+        ]
+      },
+      "properties" : {
+        "FID" : 103,
+        "No" : 104,
+        "Nama_Sekol" : "SDN 42 PEKANBARU",
+        "Alamat" : "Jl. Adi Sucipto, Perhentian Marpoyan, Marpoyan Damai, Pekanbaru City, Riau 28289",
+        "Garis_Buju" : 101.42527800000001,
+        "Garis_Lint" : 0.463611,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 104,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.4713888888889,
+          0.50194444444444442
+        ]
+      },
+      "properties" : {
+        "FID" : 104,
+        "No" : 105,
+        "Nama_Sekol" : "SDN 43 PEKANBARU",
+        "Alamat" : "Jl. Banda Aceh No.37, Tengkerang Utara, Kec. Bukit Raya, Kota Pekanbaru, Riau 28116",
+        "Garis_Buju" : 101.471389,
+        "Garis_Lint" : 0.50194399999999995,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 105,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.52916666666667,
+          0.50305555555555559
+        ]
+      },
+      "properties" : {
+        "FID" : 105,
+        "No" : 106,
+        "Nama_Sekol" : "SDN 45 PEKANBARU",
+        "Alamat" : "Bencah Lesung, Kec. Tenayan Raya, Kota Pekanbaru, Riau 28281",
+        "Garis_Buju" : 101.529167,
+        "Garis_Lint" : 0.50305599999999995,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 106,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.51555555555555,
+          0.47416666666666668
+        ]
+      },
+      "properties" : {
+        "FID" : 106,
+        "No" : 107,
+        "Nama_Sekol" : "SDN 46 PEKANBARU",
+        "Alamat" : "Jl. Lintas Sumatra No.55a, Kulim, Kec. Tenayan Raya, Kota Pekanbaru, Riau 28289",
+        "Garis_Buju" : 101.515556,
+        "Garis_Lint" : 0.47416700000000001,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 107,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.49416666666667,
+          0.50527777777777783
+        ]
+      },
+      "properties" : {
+        "FID" : 107,
+        "No" : 108,
+        "Nama_Sekol" : "SDN 47 PEKANBARU",
+        "Alamat" : "Jl. Sialang Bungkuk No.888, Bencah Lesung, Kec. Tenayan Raya, Kota Pekanbaru, Riau 28131",
+        "Garis_Buju" : 101.494167,
+        "Garis_Lint" : 0.505278,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 108,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.45805555555556,
+          0.46194444444444444
+        ]
+      },
+      "properties" : {
+        "FID" : 108,
+        "No" : 109,
+        "Nama_Sekol" : "SDN 48 PEKANBARU",
+        "Alamat" : "Jl. Tengku Bey, Simpang Tiga, Kec. Bukit Raya, Kota Pekanbaru, Riau 28288",
+        "Garis_Buju" : 101.458056,
+        "Garis_Lint" : 0.46194400000000002,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 109,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43305555555555,
+          0.6497222222222222
+        ]
+      },
+      "properties" : {
+        "FID" : 109,
+        "No" : 110,
+        "Nama_Sekol" : "SDN 49 PEKANBARU",
+        "Alamat" : "Jl. Hangtuah No.388, Air Jamban, Kec. Mandau, Kabupaten Bengkalis, Riau 28784",
+        "Garis_Buju" : 101.43305599999999,
+        "Garis_Lint" : 0.64972200000000002,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 110,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43055555555556,
+          0.53916666666666668
+        ]
+      },
+      "properties" : {
+        "FID" : 110,
+        "No" : 111,
+        "Nama_Sekol" : "SDN 50 PEKANBARU",
+        "Alamat" : "Jl. Kapur No.9, Kp. Baru, Kec. Senapelan, Kota Pekanbaru, Riau 28155",
+        "Garis_Buju" : 101.430556,
+        "Garis_Lint" : 0.53916699999999995,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 111,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.45555555555556,
+          0.52500000000000002
+        ]
+      },
+      "properties" : {
+        "FID" : 111,
+        "No" : 112,
+        "Nama_Sekol" : "SDN 51 PEKANBARU",
+        "Alamat" : "Jl. Hangtuah No.45, Rintis, Kec. Sail, Kota Pekanbaru, Riau 28156",
+        "Garis_Buju" : 101.455556,
+        "Garis_Lint" : 0.52500000000000002,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 112,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.45888888888889,
+          0.53722222222222227
+        ]
+      },
+      "properties" : {
+        "FID" : 112,
+        "No" : 113,
+        "Nama_Sekol" : "SDN 52 PEKANBARU",
+        "Alamat" : "Jl. Sungai Rokan, Tj. Rhu, Kec. Lima Puluh, Kota Pekanbaru, Riau 28151",
+        "Garis_Buju" : 101.458889,
+        "Garis_Lint" : 0.53722199999999998,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 113,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44500000000001,
+          0.56027777777777787
+        ]
+      },
+      "properties" : {
+        "FID" : 113,
+        "No" : 114,
+        "Nama_Sekol" : "SDN 55 PEKANBARU",
+        "Alamat" : "Jl. Kayangan No.114, Meranti Pandak, Kec. Rumbai Pesisir, Kota Pekanbaru, Riau 28266",
+        "Garis_Buju" : 101.44499999999999,
+        "Garis_Lint" : 0.56027800000000005,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 114,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44500000000001,
+          0.52083333333333337
+        ]
+      },
+      "properties" : {
+        "FID" : 114,
+        "No" : 115,
+        "Nama_Sekol" : "SDN 56 PEKANBARU",
+        "Alamat" : "Jl. Teuku Cik Ditiro, Tanah Datar, Pekanbaru Kota, Pekanbaru City, Riau 28156",
+        "Garis_Buju" : 101.44499999999999,
+        "Garis_Lint" : 0.52083299999999999,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 115,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.44222222222223,
+          0.51444444444444448
+        ]
+      },
+      "properties" : {
+        "FID" : 115,
+        "No" : 116,
+        "Nama_Sekol" : "SDN 57 PEKANBARU",
+        "Alamat" : "Jl. Mangga, Jadirejo, Kec. Sukajadi, Kota Pekanbaru, Riau 28126",
+        "Garis_Buju" : 101.442222,
+        "Garis_Lint" : 0.51444400000000001,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 116,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.46000000000001,
+          0.52194444444444454
+        ]
+      },
+      "properties" : {
+        "FID" : 116,
+        "No" : 117,
+        "Nama_Sekol" : "SDN 58 PEKANBARU",
+        "Alamat" : "Jl. Kp. Klp., Suka Mulia, Kec. Sail, Kota Pekanbaru, Riau",
+        "Garis_Buju" : 101.45999999999999,
+        "Garis_Lint" : 0.52194399999999996,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 117,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.42166666666667,
+          0.56388888888888888
+        ]
+      },
+      "properties" : {
+        "FID" : 117,
+        "No" : 118,
+        "Nama_Sekol" : "SDN 59 PEKANBARU",
+        "Alamat" : "Jl. Tegalsari No.99, Umban Sari, Kec. Rumbai",
+        "Garis_Buju" : 101.421667,
+        "Garis_Lint" : 0.56388899999999997,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 118,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43333333333334,
+          0.60722222222222222
+        ]
+      },
+      "properties" : {
+        "FID" : 118,
+        "No" : 119,
+        "Nama_Sekol" : "SDN 60 PEKANBARU",
+        "Alamat" : "Jl. Yos Sudarso, Muara Fajar, Kec. Rumbai, Kota Pekanbaru, Riau 28265",
+        "Garis_Buju" : 101.433333,
+        "Garis_Lint" : 0.60722200000000004,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 119,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.495,
+          0.505
+        ]
+      },
+      "properties" : {
+        "FID" : 119,
+        "No" : 120,
+        "Nama_Sekol" : "SDN 61 PEKANBARU",
+        "Alamat" : "Jl. Sialang Bungkuk, Bencah Lesung, Kec. Tenayan Raya, Kota Pekanbaru, Riau 28285",
+        "Garis_Buju" : 101.495,
+        "Garis_Lint" : 0.505,
+        "F6" : " ",
+        "F7" : " ",
+        "F8" : " ",
+        "F9" : " ",
+        "F10" : " ",
+        "F11" : " ",
+        "F12" : " ",
+        "F13" : " ",
+        "F14" : " ",
+        "F15" : " ",
+        "F16" : " ",
+        "F17" : " ",
+        "F18" : " ",
+        "F19" : " ",
+        "F20" : " "
+      }
+    }
+  ]
+}
