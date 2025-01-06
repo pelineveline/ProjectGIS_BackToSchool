@@ -18,13 +18,13 @@ const Navbar = () => {
             href="/"
             className="text-gray-600 hover:text-gray-800 transition duration-200"
           >
-            Home
+            Peta
           </Link>
           <Link
             href="/list-sekolah"
             className="text-gray-600 hover:text-gray-800 transition duration-200"
           >
-            List Sekolah
+            Sekolah
           </Link>
         </div>
 

@@ -19,7 +19,7 @@ class AdminAuth
     {
         // Exclude the following routes from the admin authentication check
         if (
-            $request->is('admin-login') ||
+            $request->is('login') ||
             $request->is('auth/google/*') ||
             $request->is('admin/logout') ||
             !$request->is('admin*')
@@ -31,7 +31,7 @@ class AdminAuth
         // Check if the user is not logged in or is not an admin
         if (!Auth::check() || !Auth::user()->is_admin) {
             // Redirect to the admin login page if the user is not authenticated or not an admin
-            return redirect('/admin-login');
+            return redirect('/login');
         }
 
         return $next($request);
