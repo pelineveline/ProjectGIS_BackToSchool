@@ -9,7 +9,9 @@ use Laravel\Socialite\Facades\Socialite;
 use App\Models\User;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Storage;
+use Illuminate\Support\Str;
 use DB;
+use Inertia\Inertia;
 
 class AdminController extends Controller
 {
@@ -84,30 +86,31 @@ class AdminController extends Controller
             'foto' => 'nullable|image|max:2048',
         ]);
 
-        // Simpan data ke database
+        // Simpan atau update data ke database
         $data = Sekolah::updateOrCreate(
-            ['id' => $request->id],
-            $request->except('images'
-            )
+            ['id' => $request->id], // Jika ID ada, update, jika tidak, buat baru
+            $request->except('foto') // Kecualikan foto untuk sementara
         );
 
-        // Simpan foto jika ada
-        if ($request->hasFile('images')) {
-            // Hapus gambar lama jika ada
+        // Simpan file foto jika ada
+        if ($request->hasFile('foto')) {
+            // Hapus gambar lama jika ada (hanya jika update)
             if ($data->foto) {
-                Storage::disk('public')->delete($data->image_path); // Hapus gambar lama dari storage
+                Storage::disk('public')->delete('sekolah/' . $data->foto);
             }
 
-            // Simpan file gambar baru dan dapatkan pathnya
-            $imagePath = $request->file('images')->store('productImage/' . Str::random(), 'public');
+            // Simpan file gambar baru
+            $fileName = time() . '_' . Str::random(10) . '.' . $request->file('foto')->getClientOriginalExtension();
+            $request->file('foto')->storeAs('sekolah', $fileName, 'public');
 
-            // Simpan path gambar baru ke dalam field image_path produk yang sama
-            $data->image_path = $imagePath;
+            // Simpan nama file ke dalam field `foto`
+            $data->foto = $fileName;
             $data->save(); // Simpan perubahan ke database
         }
 
-        return response()->json(['message' => 'Data created successfully', 'data' => $data]);
+        return Inertia::location('/list-sekolah');
     }
+
 
 
     /**
@@ -149,10 +152,8 @@ class AdminController extends Controller
             $data->save();
         }
 
-        return response()->json(['message' => 'Data updated successfully', 'data' => $data]);
+        return Inertia::location('/list-sekolah');
     }
-
-
 
     /**
      * Delete data
@@ -166,13 +167,69 @@ class AdminController extends Controller
 
             // Flash message sukses
             // Kembalikan respons sukses
-            return response()->json(['message' => 'Data deleted successfully']);
+            return Inertia::location('/list-sekolah');
         } catch (\Exception $e) {
             // Flash error jika terjadi masalah
             session()->flash('error', 'Failed to delete the item.');
 
             // Redirect dengan flash error
-            return redirect()->back();
+            return Inertia::location('/list-sekolah');
         }
+    }
+
+    public function destroyAdmin($id)
+    {
+        try {
+            // Hapus item dari tabel
+            // \App\Models\Sekolah::find('id', $id)->delete();
+            DB::table("users")->where('id', $id)->delete();
+
+            // Flash message sukses
+            // Kembalikan respons sukses
+            return Inertia::location('/list-admin');
+        } catch (\Exception $e) {
+            // Flash error jika terjadi masalah
+            session()->flash('error', 'Failed to delete the item.');
+
+            // Redirect dengan flash error
+            return redirect('/list-admin');
+        }
+    }
+
+    public function storeAdmin(Request $request)
+    {
+        // Validasi input
+        $request->validate([
+            'name' => 'required|string|max:255',
+            'email' => 'required|email|max:500,' . $request->id,
+        ]);
+
+        // Simpan atau update data ke database
+        $data = User::updateOrCreate(
+            ['id' => $request->id], // Cari berdasarkan ID (jika ada, update; jika tidak, buat baru)
+            [
+                'name' => $request->name,
+                'email' => $request->email,
+            ]
+        );
+
+        return Inertia::location('/list-admin');
+    }
+
+    public function getAdminList()
+    {
+        // Ambil data dari database
+        $schools = User::select('id', 'name', 'email')->get();
+
+        // Format data sesuai kebutuhan React
+        $formattedSchools = $schools->map(function ($school, $index) {
+            return [
+                'id' => $school->id,
+                'name' => $school->name,
+                'email' => $school->email
+            ];
+        });
+
+        return response()->json($formattedSchools);
     }
 }

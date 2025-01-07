@@ -60,6 +60,8 @@ const Home = () => {
                 >
                     <Tooltip direction="top" offset={[0, 20]} opacity={1} permanent={false}>
                         <div>
+                            <strong>Radius Zonasi: </strong> 500m
+                            <br />
                             <strong>{feature.properties.Nama_Sekol}</strong>
                             <br />
                             {feature.properties.Alamat}
@@ -72,19 +74,19 @@ const Home = () => {
 
     const FilterComponent = ({ filter, setFilter }) => (
         <div
-            className="absolute z-[1000] bg-white shadow-lg rounded p-4"
+            className="absolute z-[1000] bg-black text-white font-mono shadow-lg rounded p-4"
             style={{ top: "4rem", right: "1rem" }}
         >
             <label htmlFor="filter" className="block text-sm font-medium mb-2">
-                Filter School Type
+                Filter
             </label>
             <select
                 id="filter"
                 value={filter}
                 onChange={(e) => setFilter(e.target.value)}
-                className="block w-full p-2 border border-gray-300 rounded"
+                className="block w-full p-2 border bg-black text-white border-gray-300 rounded"
             >
-                <option value="All">All</option>
+                <option value="All">No Filter</option>
                 <option value="SMA">SMA</option>
                 <option value="SMP">SMP</option>
                 <option value="SDN">SDN</option>
@@ -125,10 +127,13 @@ const Home = () => {
                                 style={styleFeature}
                                 onEachFeature={(feature, layer) => {
                                     layer.bindTooltip(
+
                                         `<strong>${feature.properties.Nama_Sekol}</strong><br>${feature.properties.Alamat}`,
                                         { permanent: false, direction: "top" }
                                     );
                                 }}
+
+
                             />
                             {renderCircles(filteredFeatures)}
                         </>

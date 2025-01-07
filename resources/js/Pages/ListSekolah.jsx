@@ -2,6 +2,8 @@ import React, { useEffect, useState } from "react";
 import UserLayout from "@/Layouts/UserLayout";
 import DataTable from "react-data-table-component";
 import { Inertia } from "@inertiajs/inertia";
+import { redirect } from "react-router-dom";
+import { all } from "axios";
 
 const ListSekolah = () => {
     const [dataSekolah, setDataSekolah] = useState([]);
@@ -82,7 +84,7 @@ const ListSekolah = () => {
             cell: (row) => (
                 <a
                     href={`/sekolah/${row.id}`}
-                    className="text-blue-500 underline hover:text-blue-700"
+                    className="underline hover:text-blue-700"
                 >
                     {row.nama}
                 </a>
@@ -117,7 +119,7 @@ const ListSekolah = () => {
             ),
         });
     }
-    
+
     const handleSubmit = (e) => {
         e.preventDefault();
 
@@ -186,10 +188,14 @@ const ListSekolah = () => {
 
     };
 
+    const handleRowClick = (row) => {
+        redirect(`/sekolah/${row.id}`); // Arahkan ke halaman detail sekolah berdasarkan ID
+    };
+
     return (
         <UserLayout>
-            <div className="container mx-auto py-10">
-                <div className="flex justify-between items-center mb-6">
+            <div className="container mx-auto py-10 font-mono">
+                <div className="flex justify-between items-center mb-6 ">
                     <h1 className="text-2xl font-bold">List Sekolah</h1>
                     {/* Tombol Create Data hanya muncul jika admin */}
                     {isAdmin && (
@@ -224,8 +230,8 @@ const ListSekolah = () => {
                     columns={columns}
                     data={filteredData}
                     pagination
-                    paginationPerPage={10}
-                    paginationRowsPerPageOptions={[10, 20, 30, 50]}
+                    paginationPerPage={20}
+                    paginationRowsPerPageOptions={[10, 20, 30, 100]}
                     highlightOnHover
                     striped
                     responsive
@@ -234,7 +240,7 @@ const ListSekolah = () => {
 
             {/* Modal */}
             {showModal && (
-                <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
+                <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 font-mono">
                     <div className="bg-white rounded-lg p-6 w-1/2">
                         <h2 className="text-xl font-bold mb-4">
                             {formData.id ? "Update Data Sekolah" : "Create Data Sekolah"}

@@ -9,7 +9,10 @@ use Laravel\Socialite\Facades\Socialite;
 use Illuminate\Http\Request;
 
 // Halaman utama
-Route::get('/', [HomeController::class, 'index'])->name('home');
+Route::get('/peta', [HomeController::class, 'index'])->name('home');
+Route::get('/', function () {
+    return Inertia::render('Dashboard');
+});
 
 Route::get('/api/schools', [HomeController::class, 'getSchools']);
 Route::get('/api/schools-list', [HomeController::class, 'getSchoolsList']);
@@ -17,9 +20,12 @@ Route::get('/api/schools/{id}', [HomeController::class, 'getSchoolDetail']);
 
 Route::get('/api/schools-list/{id}', [AdminController::class, 'show']); // Mendapatkan data berdasarkan ID
 Route::post('/api/schools-list/store', [AdminController::class, 'store']);
-Route::put('/api/schools-list/{id}', [AdminController::class, 'update']);
+// Route::put('/api/schools-list/{id}', [AdminController::class, 'update']);
 Route::delete('/api/schools-list/{id}', [AdminController::class, 'destroy']);
 
+Route::delete('/api/admin-list/{id}', [AdminController::class, 'destroyAdmin']);
+Route::get('/api/admin-list', [AdminController::class, 'getAdminList']);
+Route::post('/api/admin-list/store', [AdminController::class, 'storeAdmin']);
 
 Route::get('/api/check-role', action: function () {
     return response()->json(['isAdmin' => session('isAdmin')]);
@@ -29,6 +35,10 @@ Route::get('/api/check-role', action: function () {
 Route::get('/list-sekolah', function () {
     return Inertia::render('ListSekolah');
 })->name('list-sekolah');
+
+Route::get('/list-admin', function () {
+    return Inertia::render('ListAdmin');
+});
 
 // Halaman login
 Route::get('/login', function () {
